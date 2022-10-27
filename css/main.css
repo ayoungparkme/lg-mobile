@@ -111,6 +111,9 @@
   overflow: hidden;
   background: #f4f4f4;
 }
+#introduce p {
+  line-height: 1.5;
+}
 #introduce .banner ul li {
   height: 300px;
   position: relative;
@@ -149,7 +152,7 @@
   overflow: hidden;
 }
 #activity .btns {
-  top: 60px;
+  top: 40px;
 }
 #activity .banner ul li img {
   height: 300px;
@@ -184,6 +187,9 @@
 }
 #notice .container {
   overflow: hidden;
+}
+#notice .btns {
+  top: 40px;
 }
 #notice .banner ul li {
   border-top: 3px solid #000;

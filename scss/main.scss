@@ -115,7 +115,9 @@
 #introduce {
   overflow: hidden;
   background: #f4f4f4;
-
+  p {
+    line-height: 1.5;
+  }
   .banner {
     ul {
       li {
@@ -161,7 +163,7 @@
 #activity {
   overflow: hidden;
   .btns {
-    top: 60px;
+    top: 40px;
   }
   .banner {
     ul {
@@ -198,6 +200,7 @@
     overflow: hidden;
   }
   .btns {
+    top: 40px;
   }
   .banner {
     ul {
